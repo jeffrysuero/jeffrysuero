@@ -9,28 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://jeffrysuero.github.io/portafolio/](https://jeffrysuero.github.io/portafolio/)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jeffry-pascual-camilo-b2a67417b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffry pascual camilo" height="30" width="40" /></a>
-<a href="https://discord.gg/Jeffry04#8016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jeffry04#8016" height="30" width="40" /></a>
-</p>
-
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
-<a href="https://shinchancode.github.io/3d-react-portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/CodeShinchan" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/twitter.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a> -->
-
-<a href="https://www.linkedin.com/in/jeffry-pascual-suero-camilo-b2a67417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeffry-pascual-suero-camilo-b2a67417b" height="30" width="40" /></a>
-
-<a href="https://www.facebook.com/aarti.rathi.1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aarti.rathi.1710" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aarti.rathiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=917040031669&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_shinchancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_shinchancode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aarti_rathi/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/aarti_rathi/practice/" height="30" width="40" /></a>
-<a href="https://run.qwiklabs.com/public_profiles/16278e95-4b35-4156-81d0-62e42cdc9c7d" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=9J37goKb44e7&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
-<a href="https://github.com/shinchancode" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FD7E14/github.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeffry-pascual-suero-camilo-b2a67417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=917040031669&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://discord.com/invite/your-discord-link" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png" alt="Discord" height="30" width="40" /></a>
 </p>
 <br>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=shinchancode&label=Profile%20views&color=0e75b6&style=flat" alt="shinchancode" /> </p>
