@@ -30,9 +30,9 @@
 <details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shinchancode&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p align="center" ><img src="https://streak-stats.demolab.com?user=shinchancode&theme=dark&border_radius=7.8" alt="shinchancode" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jeffrysuero&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="shinchancode" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrysuero&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="jeffrysuero" /></p>
+<p align="center" ><img src="https://streak-stats.demolab.com?user=jeffrysuero&theme=dark&border_radius=7.8" alt="shinchancode" /></p>
 </details>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrysuero&show_icons=true&locale=en&layout=compact" alt="jeffrysuero" /></p> -->
 
