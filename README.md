@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jeffry-pascual-suero-camilo-b2a67417b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=917040031669&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=18298288359&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://discord.com/invite/your-discord-link" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/5865F2/discord-logo.png" alt="Discord" height="30" width="40" /></a>
 </p>
 <br>
