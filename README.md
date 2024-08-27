@@ -5,7 +5,7 @@
         As a Full Stack developer, I have experience developing web applications, from front-end implementation to back-end and database management. I am familiar with a variety of programming languages and technologies, including HTML, CSS, JavaScript, React, Node.js, Express, SQL, MongoDB, among others. I strive to create efficient and scalable solutions, always seeking the satisfaction of the end user and improving the user experience.
     </h5>
     <img  align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="jeffrysuero" />
-    <img  width="580" src="https://content.cloudnature.net/images/d96ebc56-110d-4c94-9a96-6278f74749f5" alt="jeffrysuero" />
+    <img  width="450" src="https://content.cloudnature.net/images/d96ebc56-110d-4c94-9a96-6278f74749f5" alt="jeffrysuero" />
 </div>
 
 
