@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **AWS serverless**
 
 - 📫 How to reach me **jeffrysueroc@gmail.com**
-- 👨‍💻 All of my projects are available at [https://jeffrysuero.github.io/portafolio/](https://jeffrysuero.github.io/portafolio/)
+- 👨‍💻 my portfolio [https://jeffrysuero.github.io/portafolio/](https://jeffrysuero.github.io/portafolio/)
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
