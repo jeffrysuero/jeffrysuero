@@ -33,9 +33,8 @@
 </h2>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,git,firebase,react,next,postgresql,postman,php,laravel,express" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,angular,bash,figma,vscode,ts,aws,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,git,firebase,react,next,nest,postgresql,postman,php,laravel,express,tailwind,docker,mysql,angular,bash,figma,vscode,ts,aws,mongodb,sqlite,firebase" />
+    
 </p>
 <br>
 <hr>
